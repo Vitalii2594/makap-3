@@ -6104,8 +6104,18 @@ fieldset:disabled .btn {
 }
 .mb-9 {
   margin-bottom: 5rem !important;
+}
+.mb-99 {
+  margin-bottom: 5rem !important;
   border: 1px solid #dee2e6;
 }
+
+.mb-99:hover,
+.mb-99:focus {
+  border: 1px solid #cccfd3e1;
+  background-color: #cccfd3e1;
+}
+
 .mb-10 {
   margin-bottom: 5.5rem !important;
 }
