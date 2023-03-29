@@ -5941,6 +5941,7 @@ fieldset:disabled .btn {
 .my-4 {
   margin-bottom: 1.5rem !important;
   margin-top: 1.5rem !important;
+  padding-left: 10px;
 }
 .my-5 {
   margin-bottom: 3rem !important;
@@ -6103,6 +6104,7 @@ fieldset:disabled .btn {
 }
 .mb-9 {
   margin-bottom: 5rem !important;
+  border: 1px solid #dee2e6;
 }
 .mb-10 {
   margin-bottom: 5.5rem !important;
@@ -11815,7 +11817,7 @@ body {
   margin-top: 3.5rem;
 }
 .dk-training-teaser .btn {
-  margin-left: -0.75rem;
+  margin-left: auto;
 }
 .dk-training-teaser a {
   color: #484848;
