@@ -90,3 +90,10 @@ mb-10{margin-bottom:5.5rem!important}.mb-11{margin-bottom:6rem!important}.mb-12{
   letter-spacing: 0.02em;
   color: var(--text-slate);
 }
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
