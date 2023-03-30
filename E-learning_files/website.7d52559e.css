@@ -15975,6 +15975,7 @@ ul.dk-search-results-items li {
   background-color: #007d40;
   background-blend-mode: soft-light;
   mix-blend-mode: normal;
+  overflow-y: scroll;
   padding-top: 40px;
   padding-right: 32px;
   padding-left: 32px;
