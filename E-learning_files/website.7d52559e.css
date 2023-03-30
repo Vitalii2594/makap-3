@@ -15940,7 +15940,7 @@ ul.dk-search-results-items li {
 .projects-card {
   display: flex;
   flex-wrap: wrap;
-  gap: 48px 24px;
+  gap: 48px 35px;
   margin-top: 72px;
 }
 
@@ -15975,7 +15975,7 @@ ul.dk-search-results-items li {
   background-color: rgba(0, 164, 64, 0.8);
   background-blend-mode: soft-light;
   mix-blend-mode: normal;
-  overflow-y: scroll;
+  overflow-y: auto;
   padding-top: 40px;
   padding-right: 32px;
   padding-left: 32px;
