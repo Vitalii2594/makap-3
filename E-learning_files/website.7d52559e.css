@@ -15936,11 +15936,6 @@ ul.dk-search-results-items li {
 
 
 /* ======================= PORTFOLIO ========================= */
-.section-portfolio {
-  padding-top: 96px;
-  padding-bottom: 120px;
-}
-
 /* PROJECT CARDS */
 .projects-card {
   display: flex;
@@ -15977,7 +15972,7 @@ ul.dk-search-results-items li {
   line-height: 1.5;
   color: var(--light);
   letter-spacing: 0.02em;
-  background: #4d5ae5;
+  background-color: #007d40;
   background-blend-mode: soft-light;
   mix-blend-mode: normal;
   padding-top: 40px;
