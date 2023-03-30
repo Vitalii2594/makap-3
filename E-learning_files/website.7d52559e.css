@@ -23,36 +23,7 @@ mb-10{margin-bottom:5.5rem!important}.mb-11{margin-bottom:6rem!important}.mb-12{
   padding-top: 96px;
   padding-bottom: 120px;
 }
-.portfolio-btn-list {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  column-gap: 24px;
-  list-style: none;
-}
-.portfolio-btn {
-  font-family: "Roboto", sans-serif;
-  color: var(--primary-brand);
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  background: var(--primary-brand);
-  padding: 12px 24px;
-  background-color: var(--light);
-  border: 1px solid var(--accent);
-  border-radius: 4px;
-  cursor: pointer;
-}
-.portfolio-btn:hover,
-.portfolio-btn:focus,
-.active-btn:hover,
-.active-btn:focus {
-  color: var(--white-text-color);
-  background: var(--navigation-active);
-  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
-    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
-}
+
 /* PROJECT CARDS */
 .projects-card {
   display: flex;
