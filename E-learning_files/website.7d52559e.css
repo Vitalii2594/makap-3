@@ -15972,7 +15972,7 @@ ul.dk-search-results-items li {
   line-height: 1.5;
   color: var(--light);
   letter-spacing: 0.02em;
-  background-color: #007d40;
+  background-color: rgba(0, 164, 64, 0.8);
   background-blend-mode: soft-light;
   mix-blend-mode: normal;
   overflow-y: scroll;
